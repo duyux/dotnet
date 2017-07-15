@@ -1,0 +1,11 @@
+E:\学习\src\WCF学习\TheCarRentalSOACase\Services\ExternalInterfaceFacade\bin\Debug\ExternalInterfaceFacade.dll
+E:\学习\src\WCF学习\TheCarRentalSOACase\Services\ExternalInterfaceFacade\bin\Debug\ExternalInterfaceFacade.pdb
+E:\学习\src\WCF学习\TheCarRentalSOACase\Services\ExternalInterfaceFacade\bin\Debug\ExternalInterface.dll
+E:\学习\src\WCF学习\TheCarRentalSOACase\Services\ExternalInterfaceFacade\bin\Debug\RentalInterface.dll
+E:\学习\src\WCF学习\TheCarRentalSOACase\Services\ExternalInterfaceFacade\bin\Debug\CustomerInterface.dll
+E:\学习\src\WCF学习\TheCarRentalSOACase\Services\ExternalInterfaceFacade\bin\Debug\ExternalInterface.pdb
+E:\学习\src\WCF学习\TheCarRentalSOACase\Services\ExternalInterfaceFacade\bin\Debug\RentalInterface.pdb
+E:\学习\src\WCF学习\TheCarRentalSOACase\Services\ExternalInterfaceFacade\bin\Debug\CustomerInterface.pdb
+E:\学习\src\WCF学习\TheCarRentalSOACase\Services\ExternalInterfaceFacade\obj\Debug\ExternalInterfaceFacade.csprojResolveAssemblyReference.cache
+E:\学习\src\WCF学习\TheCarRentalSOACase\Services\ExternalInterfaceFacade\obj\Debug\ExternalInterfaceFacade.dll
+E:\学习\src\WCF学习\TheCarRentalSOACase\Services\ExternalInterfaceFacade\obj\Debug\ExternalInterfaceFacade.pdb

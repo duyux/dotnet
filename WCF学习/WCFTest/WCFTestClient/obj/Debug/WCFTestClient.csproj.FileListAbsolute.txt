@@ -1,0 +1,8 @@
+E:\学习\src\WCF学习\WCFTest\WCFTestClient\bin\WCFTestClient.dll.config
+E:\学习\src\WCF学习\WCFTest\WCFTestClient\bin\WCFTestClient.dll
+E:\学习\src\WCF学习\WCFTest\WCFTestClient\bin\WCFTestClient.pdb
+E:\学习\src\WCF学习\WCFTest\WCFTestClient\bin\System.Web.Providers.dll
+E:\学习\src\WCF学习\WCFTest\WCFTestClient\bin\zh-Hans\System.Web.Providers.resources.dll
+E:\学习\src\WCF学习\WCFTest\WCFTestClient\obj\Debug\WCFTestClient.csprojResolveAssemblyReference.cache
+E:\学习\src\WCF学习\WCFTest\WCFTestClient\obj\Debug\WCFTestClient.dll
+E:\学习\src\WCF学习\WCFTest\WCFTestClient\obj\Debug\WCFTestClient.pdb

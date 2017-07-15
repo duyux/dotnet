@@ -1,0 +1,4 @@
+E:\学习\src\WCF学习\CarRental\CarRentalWcfService\ICarRental\bin\Debug\ICarRental.dll
+E:\学习\src\WCF学习\CarRental\CarRentalWcfService\ICarRental\bin\Debug\ICarRental.pdb
+E:\学习\src\WCF学习\CarRental\CarRentalWcfService\ICarRental\obj\Debug\ICarRental.dll
+E:\学习\src\WCF学习\CarRental\CarRentalWcfService\ICarRental\obj\Debug\ICarRental.pdb

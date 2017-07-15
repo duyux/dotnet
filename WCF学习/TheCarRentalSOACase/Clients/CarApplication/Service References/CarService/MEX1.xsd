@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/CarManagementInterface" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/CarManagementInterface" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="Car">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="BrandName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="LitersOfLuggage" type="xs:int" />
+      <xs:element minOccurs="0" name="MaxNumberOfPersons" type="xs:int" />
+      <xs:element minOccurs="0" name="NumberOfDoors" type="xs:int" />
+      <xs:element minOccurs="0" name="Transmission" type="tns:TransmissionTypeEnum" />
+      <xs:element minOccurs="0" name="TypeName" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Car" nillable="true" type="tns:Car" />
+  <xs:simpleType name="TransmissionTypeEnum">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Manual" />
+      <xs:enumeration value="Automatic" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="TransmissionTypeEnum" nillable="true" type="tns:TransmissionTypeEnum" />
+  <xs:complexType name="LuxuryCar">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:Car">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="LuxuryItemsList" nillable="true" type="tns:ArrayOfLuxuryItems" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="LuxuryCar" nillable="true" type="tns:LuxuryCar" />
+  <xs:complexType name="ArrayOfLuxuryItems">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="LuxuryItems" nillable="true" type="tns:LuxuryItems" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfLuxuryItems" nillable="true" type="tns:ArrayOfLuxuryItems" />
+  <xs:complexType name="LuxuryItems">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="ItemName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ItemdDescription" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="LuxuryItems" nillable="true" type="tns:LuxuryItems" />
+  <xs:complexType name="SportsCar">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:Car">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="HorsePower" type="xs:int" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="SportsCar" nillable="true" type="tns:SportsCar" />
+  <xs:complexType name="ArrayOfCar">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Car" nillable="true" type="tns:Car" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfCar" nillable="true" type="tns:ArrayOfCar" />
+</xs:schema>

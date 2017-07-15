@@ -1,0 +1,5 @@
+E:\学习\src\WCF学习\CarRental\CarRentalWcfService\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+E:\学习\src\WCF学习\CarRental\CarRentalWcfService\ConsoleClient\bin\Debug\ConsoleClient.exe
+E:\学习\src\WCF学习\CarRental\CarRentalWcfService\ConsoleClient\bin\Debug\ConsoleClient.pdb
+E:\学习\src\WCF学习\CarRental\CarRentalWcfService\ConsoleClient\obj\Debug\ConsoleClient.exe
+E:\学习\src\WCF学习\CarRental\CarRentalWcfService\ConsoleClient\obj\Debug\ConsoleClient.pdb

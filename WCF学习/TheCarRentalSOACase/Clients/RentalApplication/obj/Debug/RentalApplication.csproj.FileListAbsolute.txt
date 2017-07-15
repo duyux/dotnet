@@ -1,0 +1,11 @@
+E:\学习\src\WCF学习\TheCarRentalSOACase\Clients\RentalApplication\bin\Debug\RentalApplication.exe.config
+E:\学习\src\WCF学习\TheCarRentalSOACase\Clients\RentalApplication\obj\Debug\RentalApplication.csprojResolveAssemblyReference.cache
+E:\学习\src\WCF学习\TheCarRentalSOACase\Clients\RentalApplication\obj\Debug\RentalApplication.Form1.resources
+E:\学习\src\WCF学习\TheCarRentalSOACase\Clients\RentalApplication\obj\Debug\RentalApplication.Properties.Resources.resources
+E:\学习\src\WCF学习\TheCarRentalSOACase\Clients\RentalApplication\obj\Debug\RentalApplication.csproj.GenerateResource.Cache
+E:\学习\src\WCF学习\TheCarRentalSOACase\Clients\RentalApplication\bin\Debug\RentalApplication.exe
+E:\学习\src\WCF学习\TheCarRentalSOACase\Clients\RentalApplication\bin\Debug\RentalApplication.pdb
+E:\学习\src\WCF学习\TheCarRentalSOACase\Clients\RentalApplication\bin\Debug\RentalInterface.dll
+E:\学习\src\WCF学习\TheCarRentalSOACase\Clients\RentalApplication\bin\Debug\RentalInterface.pdb
+E:\学习\src\WCF学习\TheCarRentalSOACase\Clients\RentalApplication\obj\Debug\RentalApplication.exe
+E:\学习\src\WCF学习\TheCarRentalSOACase\Clients\RentalApplication\obj\Debug\RentalApplication.pdb

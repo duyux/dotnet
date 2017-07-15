@@ -1,0 +1,7 @@
+E:\学习\src\WCF学习\TheCarRentalSOACase\Services\CarManagementService\obj\Debug\CarManagementService.csprojResolveAssemblyReference.cache
+E:\学习\src\WCF学习\TheCarRentalSOACase\Services\CarManagementService\bin\Debug\CarManagementService.dll
+E:\学习\src\WCF学习\TheCarRentalSOACase\Services\CarManagementService\bin\Debug\CarManagementService.pdb
+E:\学习\src\WCF学习\TheCarRentalSOACase\Services\CarManagementService\bin\Debug\CarManagementInterface.dll
+E:\学习\src\WCF学习\TheCarRentalSOACase\Services\CarManagementService\bin\Debug\CarManagementInterface.pdb
+E:\学习\src\WCF学习\TheCarRentalSOACase\Services\CarManagementService\obj\Debug\CarManagementService.dll
+E:\学习\src\WCF学习\TheCarRentalSOACase\Services\CarManagementService\obj\Debug\CarManagementService.pdb

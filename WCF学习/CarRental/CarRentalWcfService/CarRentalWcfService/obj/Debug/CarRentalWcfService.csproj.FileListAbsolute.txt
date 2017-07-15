@@ -1,0 +1,8 @@
+E:\学习\src\WCF学习\CarRental\CarRentalWcfService\CarRentalWcfService\bin\CarRentalWcfService.dll.config
+E:\学习\src\WCF学习\CarRental\CarRentalWcfService\CarRentalWcfService\bin\CarRentalWcfService.dll
+E:\学习\src\WCF学习\CarRental\CarRentalWcfService\CarRentalWcfService\bin\CarRentalWcfService.pdb
+E:\学习\src\WCF学习\CarRental\CarRentalWcfService\CarRentalWcfService\obj\Debug\CarRentalWcfService.csprojResolveAssemblyReference.cache
+E:\学习\src\WCF学习\CarRental\CarRentalWcfService\CarRentalWcfService\obj\Debug\CarRentalWcfService.dll
+E:\学习\src\WCF学习\CarRental\CarRentalWcfService\CarRentalWcfService\obj\Debug\CarRentalWcfService.pdb
+E:\学习\src\WCF学习\CarRental\CarRentalWcfService\CarRentalWcfService\bin\ICarRental.dll
+E:\学习\src\WCF学习\CarRental\CarRentalWcfService\CarRentalWcfService\bin\ICarRental.pdb

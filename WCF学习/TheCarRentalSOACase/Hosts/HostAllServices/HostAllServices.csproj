@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CE35FDC8-C9E6-4BDB-897C-921C03484F50}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HostAllServices</RootNamespace>
+    <AssemblyName>HostAllServices</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Interfaces\CarManagementInterface\CarManagementInterface.csproj">
+      <Project>{22e0c37c-92c1-4a94-8e61-8c4ae0fff9d7}</Project>
+      <Name>CarManagementInterface</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Interfaces\CustomerInterface\CustomerInterface.csproj">
+      <Project>{7037a9fe-54a0-4728-bacd-385fd04c75ac}</Project>
+      <Name>CustomerInterface</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Interfaces\ExternalInterface\ExternalInterface.csproj">
+      <Project>{6a6afd15-0357-4a50-a2e1-6beec70aceb1}</Project>
+      <Name>ExternalInterface</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Interfaces\RentalInterface\RentalInterface.csproj">
+      <Project>{b9bd1bcc-23da-4e58-9a7b-c9a8c871ee75}</Project>
+      <Name>RentalInterface</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Services\CarManagementService\CarManagementService.csproj">
+      <Project>{bb575518-4157-42a6-8139-7ff147c53937}</Project>
+      <Name>CarManagementService</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Services\CustomerService\CustomerService.csproj">
+      <Project>{b09554b3-d023-4922-bb7d-e070a2407e65}</Project>
+      <Name>CustomerService</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Services\ExternalInterfaceFacade\ExternalInterfaceFacade.csproj">
+      <Project>{cff2101d-9e36-41e0-8fb4-c711385b50ac}</Project>
+      <Name>ExternalInterfaceFacade</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Services\RentalService\RentalService.csproj">
+      <Project>{e2acbc2f-6b57-4a2c-a49b-774ae86105ea}</Project>
+      <Name>RentalService</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

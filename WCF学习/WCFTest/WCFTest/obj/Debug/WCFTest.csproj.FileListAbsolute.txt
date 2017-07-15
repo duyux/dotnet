@@ -1,0 +1,5 @@
+E:\学习\src\WCF学习\WCFTest\WCFTest\bin\WCFTest.dll.config
+E:\学习\src\WCF学习\WCFTest\WCFTest\bin\WCFTest.dll
+E:\学习\src\WCF学习\WCFTest\WCFTest\bin\WCFTest.pdb
+E:\学习\src\WCF学习\WCFTest\WCFTest\obj\Debug\WCFTest.dll
+E:\学习\src\WCF学习\WCFTest\WCFTest\obj\Debug\WCFTest.pdb

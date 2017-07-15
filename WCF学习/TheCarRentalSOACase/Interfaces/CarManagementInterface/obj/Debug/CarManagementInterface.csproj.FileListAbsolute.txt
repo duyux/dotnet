@@ -1,0 +1,4 @@
+E:\学习\src\WCF学习\TheCarRentalSOACase\Interfaces\CarManagementInterface\bin\Debug\CarManagementInterface.dll
+E:\学习\src\WCF学习\TheCarRentalSOACase\Interfaces\CarManagementInterface\bin\Debug\CarManagementInterface.pdb
+E:\学习\src\WCF学习\TheCarRentalSOACase\Interfaces\CarManagementInterface\obj\Debug\CarManagementInterface.dll
+E:\学习\src\WCF学习\TheCarRentalSOACase\Interfaces\CarManagementInterface\obj\Debug\CarManagementInterface.pdb

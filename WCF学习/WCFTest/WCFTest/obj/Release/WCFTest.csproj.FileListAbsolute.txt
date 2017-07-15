@@ -1,0 +1,6 @@
+E:\学习\src\WCF学习\WCFTest\WCFTest\bin\WCFTest.dll.config
+E:\学习\src\WCF学习\WCFTest\WCFTest\bin\WCFTest.dll
+E:\学习\src\WCF学习\WCFTest\WCFTest\bin\WCFTest.pdb
+E:\学习\src\WCF学习\WCFTest\WCFTest\obj\Release\WCFTest.dll
+E:\学习\src\WCF学习\WCFTest\WCFTest\obj\Release\WCFTest.pdb
+E:\学习\src\WCF学习\WCFTest\WCFTest\obj\Release\WCFTest.csprojResolveAssemblyReference.cache

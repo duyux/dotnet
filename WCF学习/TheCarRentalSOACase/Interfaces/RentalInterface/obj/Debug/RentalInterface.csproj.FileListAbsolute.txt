@@ -1,0 +1,4 @@
+E:\学习\src\WCF学习\TheCarRentalSOACase\Interfaces\RentalInterface\bin\Debug\RentalInterface.dll
+E:\学习\src\WCF学习\TheCarRentalSOACase\Interfaces\RentalInterface\bin\Debug\RentalInterface.pdb
+E:\学习\src\WCF学习\TheCarRentalSOACase\Interfaces\RentalInterface\obj\Debug\RentalInterface.dll
+E:\学习\src\WCF学习\TheCarRentalSOACase\Interfaces\RentalInterface\obj\Debug\RentalInterface.pdb

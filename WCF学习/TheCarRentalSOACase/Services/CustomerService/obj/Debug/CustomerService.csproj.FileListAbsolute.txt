@@ -1,0 +1,8 @@
+E:\学习\src\WCF学习\TheCarRentalSOACase\Services\CustomerService\obj\Debug\CustomerService.csprojResolveAssemblyReference.cache
+E:\学习\src\WCF学习\TheCarRentalSOACase\Services\CustomerService\bin\Debug\CustomerService.dll
+E:\学习\src\WCF学习\TheCarRentalSOACase\Services\CustomerService\bin\Debug\CustomerService.pdb
+E:\学习\src\WCF学习\TheCarRentalSOACase\Services\CustomerService\bin\Debug\CustomerInterface.dll
+E:\学习\src\WCF学习\TheCarRentalSOACase\Services\CustomerService\bin\Debug\CustomerInterface.pdb
+E:\学习\src\WCF学习\TheCarRentalSOACase\Services\CustomerService\obj\Debug\CustomerService.dll
+E:\学习\src\WCF学习\TheCarRentalSOACase\Services\CustomerService\obj\Debug\CustomerService.pdb
+E:\学习\src\WCF学习\TheCarRentalSOACase\Services\CustomerService\bin\Debug\CustomerService.dll.config

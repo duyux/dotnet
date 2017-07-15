@@ -1,0 +1,9 @@
+E:\学习\src\WCF学习\TheCarRentalSOACase\Clients\CarApplication\obj\Debug\CarApplication.csprojResolveAssemblyReference.cache
+E:\学习\src\WCF学习\TheCarRentalSOACase\Clients\CarApplication\obj\Debug\CarApplication.Form1.resources
+E:\学习\src\WCF学习\TheCarRentalSOACase\Clients\CarApplication\obj\Debug\CarApplication.Properties.Resources.resources
+E:\学习\src\WCF学习\TheCarRentalSOACase\Clients\CarApplication\obj\Debug\CarApplication.csproj.GenerateResource.Cache
+E:\学习\src\WCF学习\TheCarRentalSOACase\Clients\CarApplication\bin\Debug\CarApplication.exe.config
+E:\学习\src\WCF学习\TheCarRentalSOACase\Clients\CarApplication\bin\Debug\CarApplication.exe
+E:\学习\src\WCF学习\TheCarRentalSOACase\Clients\CarApplication\bin\Debug\CarApplication.pdb
+E:\学习\src\WCF学习\TheCarRentalSOACase\Clients\CarApplication\obj\Debug\CarApplication.exe
+E:\学习\src\WCF学习\TheCarRentalSOACase\Clients\CarApplication\obj\Debug\CarApplication.pdb

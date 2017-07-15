@@ -1,0 +1,4 @@
+E:\学习\src\WCF学习\TheCarRentalSOACase\Interfaces\CustomerInterface\bin\Debug\CustomerInterface.dll
+E:\学习\src\WCF学习\TheCarRentalSOACase\Interfaces\CustomerInterface\bin\Debug\CustomerInterface.pdb
+E:\学习\src\WCF学习\TheCarRentalSOACase\Interfaces\CustomerInterface\obj\Debug\CustomerInterface.dll
+E:\学习\src\WCF学习\TheCarRentalSOACase\Interfaces\CustomerInterface\obj\Debug\CustomerInterface.pdb
