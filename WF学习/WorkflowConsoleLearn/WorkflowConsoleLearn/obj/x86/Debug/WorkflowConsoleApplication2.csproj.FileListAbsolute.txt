@@ -1,0 +1,17 @@
+E:\temp\WorkflowConsoleApplication2\WorkflowConsoleApplication2\bin\Debug\WorkflowConsoleApplication2.exe.config
+E:\temp\WorkflowConsoleApplication2\WorkflowConsoleApplication2\bin\Debug\WorkflowConsoleApplication2.exe
+E:\temp\WorkflowConsoleApplication2\WorkflowConsoleApplication2\bin\Debug\WorkflowConsoleApplication2.pdb
+E:\temp\WorkflowConsoleApplication2\WorkflowConsoleApplication2\obj\x86\Debug\WorkflowConsoleApplication2.csprojResolveAssemblyReference.cache
+E:\temp\WorkflowConsoleApplication2\WorkflowConsoleApplication2\obj\x86\Debug\Workflow1.g.xaml
+E:\temp\WorkflowConsoleApplication2\WorkflowConsoleApplication2\obj\x86\Debug\_WorkflowConsoleApplication2.g.cs
+E:\temp\WorkflowConsoleApplication2\WorkflowConsoleApplication2\obj\x86\Debug\Workflow1.g.cs
+E:\temp\WorkflowConsoleApplication2\WorkflowConsoleApplication2\obj\x86\Debug\WorkflowConsoleApplication2.csproj.XamlGeneratedCodeFileListAbsolute.txt
+E:\temp\WorkflowConsoleApplication2\WorkflowConsoleApplication2\obj\x86\Debug\WorkflowConsoleApplication2.csproj.XamlGeneratedXamlFileListAbsolute.txt
+E:\temp\WorkflowConsoleApplication2\WorkflowConsoleApplication2\obj\x86\Debug\InProcessTempFiles\Workflow1.g.cs
+E:\temp\WorkflowConsoleApplication2\WorkflowConsoleApplication2\obj\x86\Debug\InProcessTempFiles\Workflow1.g.xaml
+E:\temp\WorkflowConsoleApplication2\WorkflowConsoleApplication2\obj\x86\Debug\InProcessTempFiles\_WorkflowConsoleApplication2.g.cs
+E:\temp\WorkflowConsoleApplication2\WorkflowConsoleApplication2\obj\x86\Debug\WorkflowConsoleApplication2.exe
+E:\temp\WorkflowConsoleApplication2\WorkflowConsoleApplication2\obj\x86\Debug\WorkflowConsoleApplication2.pdb
+E:\学习\src\WF学习\WorkflowConsoleLearn\WorkflowConsoleApplication2\bin\Debug\WorkflowConsoleApplication2.exe.config
+E:\学习\src\WF学习\WorkflowConsoleLearn\WorkflowConsoleApplication2\obj\x86\Debug\WorkflowConsoleApplication2.exe
+E:\学习\src\WF学习\WorkflowConsoleLearn\WorkflowConsoleApplication2\obj\x86\Debug\WorkflowConsoleApplication2.pdb

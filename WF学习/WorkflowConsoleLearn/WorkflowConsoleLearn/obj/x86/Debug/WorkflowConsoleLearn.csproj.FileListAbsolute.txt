@@ -1,0 +1,14 @@
+E:\学习\src\WF学习\WorkflowConsoleLearn\WorkflowConsoleLearn\obj\x86\Debug\Workflow1.g.xaml
+E:\学习\src\WF学习\WorkflowConsoleLearn\WorkflowConsoleLearn\obj\x86\Debug\Workflow1.g.cs
+E:\学习\src\WF学习\WorkflowConsoleLearn\WorkflowConsoleLearn\obj\x86\Debug\WorkflowConsoleLearn.csproj.XamlGeneratedCodeFileListAbsolute.txt
+E:\学习\src\WF学习\WorkflowConsoleLearn\WorkflowConsoleLearn\obj\x86\Debug\WorkflowConsoleLearn.csproj.XamlGeneratedXamlFileListAbsolute.txt
+E:\学习\src\WF学习\WorkflowConsoleLearn\WorkflowConsoleLearn\bin\Debug\WorkflowConsoleLearn.exe.config
+E:\学习\src\WF学习\WorkflowConsoleLearn\WorkflowConsoleLearn\bin\Debug\WorkflowConsoleLearn.exe
+E:\学习\src\WF学习\WorkflowConsoleLearn\WorkflowConsoleLearn\bin\Debug\WorkflowConsoleLearn.pdb
+E:\学习\src\WF学习\WorkflowConsoleLearn\WorkflowConsoleLearn\obj\x86\Debug\_WorkflowConsoleLearn.g.cs
+E:\学习\src\WF学习\WorkflowConsoleLearn\WorkflowConsoleLearn\obj\x86\Debug\WorkflowConsoleLearn.dll
+E:\学习\src\WF学习\WorkflowConsoleLearn\WorkflowConsoleLearn\obj\x86\Debug\WorkflowConsoleLearn.pdb
+E:\学习\src\WF学习\WorkflowConsoleLearn\WorkflowConsoleLearn\obj\x86\Debug\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml
+E:\学习\src\WF学习\WorkflowConsoleLearn\WorkflowConsoleLearn\obj\x86\Debug\WorkflowConsoleLearn.exe
+E:\学习\src\WF学习\WorkflowConsoleLearn\WorkflowConsoleLearn\obj\x86\Debug\WorkflowConsoleLearn_Workflow1_BeforeInitializeComponentHelper.txt
+E:\学习\src\WF学习\WorkflowConsoleLearn\WorkflowConsoleLearn\obj\x86\Debug\WorkflowConsoleLearn_Workflow1_BeforeInitializeComponentHelper.cs
